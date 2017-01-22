@@ -1,0 +1,8 @@
+{
+  "main": {
+    "js": "/angular2-webpack-starter/main.bundle.js"
+  },
+  "polyfills": {
+    "js": "/angular2-webpack-starter/polyfills.bundle.js"
+  }
+}
